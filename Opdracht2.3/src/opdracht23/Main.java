@@ -1,4 +1,4 @@
-package opdracht23;
+cdpackage opdracht23;
 
 import java.util.Scanner;
 
